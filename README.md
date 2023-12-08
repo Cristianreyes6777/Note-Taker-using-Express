@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the Note Taker application! This project challenges you to create a user-friendly tool for note-taking, designed specifically for small business owners. Using an Express.js back end, this application allows you to effortlessly write and save notes, enabling you to efficiently organize your thoughts and keep track of essential tasks. The front end of the application has already been established, so your mission is to construct the back end, seamlessly connect the two, and finally deploy the complete application to Heroku. Be sure to start by cloning the provided starter code repository and creating your repository with it, without forking the starter code repository. With a user story and acceptance criteria in mind, you'll create a smooth user experience, providing a landing page with access to your notes, the ability to create, save, and edit notes, all while maintaining an intuitive and user-friendly interface. Happy note-taking!
+Welcome to the Note Taker application! This project is a user-friendly tool for note-taking. Using an Express.js back end, this application allows you to effortlessly write and save notes, enabling you to efficiently organize your thoughts and keep track of essential tasks. The front end of the application has already been established, so your mission is to construct the back end, seamlessly connect the two, and finally deploy the complete application to Heroku. I created a smooth user experience, providing a landing page with access to your notes, the ability to create, save, and edit notes, all while maintaining an intuitive and user-friendly interface. Happy note-taking!
 
 
 ## Table of Contents
